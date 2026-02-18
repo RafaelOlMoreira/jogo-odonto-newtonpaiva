@@ -1,7 +1,7 @@
 # Jogo Descarte Odonto
 
 **Resumo**  
-Jogo educativo criado para apresentar os riscos e ensinar o descarte correto de materiais odontológicos. Desenvolvido como atividade para um grupo da turma de Odontologia da :contentReference[oaicite:0]{index=0}, com foco em conscientização prática e segurança no descarte de resíduos.
+Jogo educativo criado para apresentar os riscos e ensinar o descarte correto de materiais odontológicos. Desenvolvido como atividade para um grupo da turma de Odontologia da Newton Paiva, com foco em conscientização prática e segurança no descarte de resíduos.
 
 ---
 
@@ -20,14 +20,15 @@ Estudantes de Odontologia, técnicos de saúde, equipes de atendimento clínico 
 
 ## Tecnologias (resumo)
 - Frontend: React + Vite  
-- Backend: Node.js / Express (API simples)  
+- Backend: Node.js / Express
+- Banco de Dados: MongoDB
 - Deploy: Vercel  
 > Obs.: Este repositório público contém apenas informações descritivas. O código completo e dados sensíveis foram mantidos em repositório privado para proteger credenciais e dados do projeto.
 
 ---
 
-## Como apresentar / usar
-1. Abra o README deste repositório público para explicar o propósito do jogo ao público.  
+## Como usar / apresentar
+1. Abra o README deste repositório público para acessar o jogo feito ao público.  
 2. [Jogo online](https://jogo-odonto.vercel.app/)  
 3. Para uso em aulas: faça uma breve introdução (5–10 min) sobre tipos de resíduos e depois peça que os alunos joguem por equipes, discutindo cada decisão de descarte.
 
@@ -43,7 +44,7 @@ Este repositório público foi criado apenas para apresentar o projeto e sua fin
 ---
 
 ## Agradecimentos
-Desenvolvido para o grupo da turma de Odontologia da :contentReference[oaicite:1]{index=1} e para todos os estudantes e professores que colaboraram com conteúdo e testes.
+Desenvolvido para o grupo da turma de Odontologia da Newton Paiva e para todos os estudantes e professores que colaboraram com conteúdo e testes.
 
 ---
 
