@@ -53,5 +53,5 @@ Este repositório público (README e material não sensível) está disponível 
 ---
 
 ## Contato
-Rafael Moreira — [rafael150305@gmail.com]
+[Rafael Moreira](rafael150305@gmail.com) - Email
 
