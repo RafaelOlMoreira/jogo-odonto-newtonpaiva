@@ -28,7 +28,7 @@ Estudantes de Odontologia, técnicos de saúde, equipes de atendimento clínico 
 
 ## Como apresentar / usar
 1. Abra o README deste repositório público para explicar o propósito do jogo ao público.  
-2. `[Jogo online](https://jogo-odonto.vercel.app/)`  
+2. [Jogo online](https://jogo-odonto.vercel.app/)  
 3. Para uso em aulas: faça uma breve introdução (5–10 min) sobre tipos de resíduos e depois peça que os alunos joguem por equipes, discutindo cada decisão de descarte.
 
 ---
